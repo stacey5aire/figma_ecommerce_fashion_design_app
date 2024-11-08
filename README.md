@@ -20,8 +20,12 @@ The Fashion Shopping App provides a modern shopping experience with features for
 - **Payment**
 - **Profile Page**
 
-## Figma Project Link
-[Click here to view the project on Figma]([https://figma.com/file/your-project-link](https://www.figma.com/proto/R2YLTM6JL7GmswpF5xGmyY/Ecommerce-Fashion-App?node-id=0-1&t=fqgGsEB8jyYbYwNi-1))
+## Figma Project Links
+
+- [View the Project on Figma](https://www.figma.com/design/R2YLTM6JL7GmswpF5xGmyY/Ecommerce-Fashion-App?m=auto&t=qjqdcsxO7vhKgWQD-6)
+- [View the Prototype on Figma](https://www.figma.com/proto/R2YLTM6JL7GmswpF5xGmyY/Ecommerce-Fashion-App?node-id=2-4&node-type=frame&t=qjqdcsxO7vhKgWQD-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4)
+
+
 
 ## How to Use
 - **LoFi Mockups**: Open the **LoFi** folder to view low fidelity individual screen layouts.
