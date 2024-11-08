@@ -29,6 +29,14 @@ The Fashion Shopping App provides a modern shopping experience with features for
 
 
 ## How to Use
-- **LoFi Mockups**: Open the **LoFi** folder to view low fidelity individual screen layouts.
-- **HiFi Mockups**: Open the **HiFi** folder to view high fidelity individual screen layouts.
+
+- **LoFi Mockups**:
+  - Open the **LoFi** folder to view low-fidelity mockups in **JPG** and **SVG** formats. These provide rough, simplified layouts of each screen.
+
+- **HiFi Mockups**:
+  - Open the **HiFi** folder to view high-fidelity mockups in **JPG** and **SVG** formats. These provide detailed, polished designs for each screen.
+
+- **Figma Source File**:
+  - To access the complete Figma project file, open the `.fig` file located in the main directory. You can load this file directly into Figma for further exploration.
+
 
