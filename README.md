@@ -27,6 +27,7 @@ The Fashion Shopping App provides a modern shopping experience with features for
 
 
 
+
 ## How to Use
 - **LoFi Mockups**: Open the **LoFi** folder to view low fidelity individual screen layouts.
 - **HiFi Mockups**: Open the **HiFi** folder to view high fidelity individual screen layouts.
